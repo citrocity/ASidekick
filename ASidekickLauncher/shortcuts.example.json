@@ -1,0 +1,27 @@
+[
+  {
+    "Title": "Steam",
+    "TargetPath": "C:/ProgramData/Microsoft/Windows/Start Menu/Programs/Steam/Steam.lnk",
+    "ImagePath": "Assets/steam.png",
+    "ForceMainDisplay": true
+  },
+  {
+    "Title": "Discord",
+    "TargetPath": "discord://",
+    "ImagePath": "Assets/discord.png",
+    "ForceMainDisplay": true
+  },
+  {
+    "Title": "Spotify",
+    "TargetPath": "explorer.exe",
+    "Arguments": "spotify://",
+    "ImagePath": "Assets/spotify.png",
+    "ForceMainDisplay": true
+  },
+  {
+    "Title": "Twitch",
+    "TargetPath": "https://twitch.tv",
+    "ImagePath": "Assets/twitch.png",
+    "ForceMainDisplay": true
+  }
+]
