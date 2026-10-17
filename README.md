@@ -10,7 +10,7 @@ Created by [Ali](https://github.com/citrocity)
 
 ## Why ASidekick?
 
-Many second-screen tools are heavier than needed for a simple launcher. They can require separate host and client software, or focus on sending a phone or tablet display over Wifi or a LAN. ASidekick (Ali's Sidekick) takes a simpler approach. Windows drives the second display as a regular monitor, and ASidekick runs directly on it, no network streaming, companion client or host service.
+Many second-screen tools are heavier than needed for a simple launcher. They can require separate host and client software, or focus on sending a phone or tablet display over Wifi or a LAN. ASidekick _(`Ali's Sidekick`)_ takes a simpler approach. Windows drives the second display as a regular monitor, and ASidekick runs directly on it, no network streaming, companion client or host service.
 
 ## How it works
 
@@ -47,10 +47,9 @@ ASidekick does not create a virtual display or transmit video to another device.
 ## Getting started
 
 1. Connect the secondary display and enable it in Windows Display settings.
-2. Download and extract a release, or clone this repository.
-3. Copy `ASidekickLauncher/shortcuts.example.json` to `ASidekickLauncher/shortcuts.json`.
-4. Edit `shortcuts.json` to configure your shortcut tiles.
-5. Run `ASidekick.exe`.
+2. Download and extract a release, or clone this repository to run from source.
+3. In the extracted release folder, edit `shortcuts.json` to configure your tiles. If running from source, copy `ASidekickLauncher/shortcuts.example.json` to `ASidekickLauncher/shortcuts.json` first.
+4. Run `ASidekick.exe`.
 
 When running from source, create your local configuration first, then run:
 
