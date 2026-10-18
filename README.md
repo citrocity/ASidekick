@@ -4,6 +4,11 @@
 ![Platform: Windows](https://img.shields.io/badge/Platform-Windows-0078D6?logo=windows)
 ![.NET 8](https://img.shields.io/badge/.NET-8.0-512BD4?logo=dotnet)
 
+<p align="center">
+  <img src="https://repository-images.githubusercontent.com/1423702671/93ccf4ce-b6e6-4b16-8b27-4048c7551e0e" alt="ASidekick" width="400">
+</p>
+
+
 ASidekick is a lightweight, fullscreen shortcut launcher for a Windows secondary display. It gives you a dedicated place for one-click shortcuts to apps, games, websites and other targets whilst keeping your main display available for whatever you are doing.
 
 Created by [Ali](https://github.com/citrocity)
